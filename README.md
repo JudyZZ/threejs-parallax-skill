@@ -46,14 +46,14 @@ git clone https://github.com/JudyZZ/threejs-parallax-skill.git /tmp/threejs-para
 cp -r /tmp/threejs-parallax-skill/threejs-parallax ~/.codex/skills/
 ```
 
-## Usage
+## How to use it?
 
 Once installed, the skill activates automatically when you mention things like:
 
-- "Add a parallax effect"
-- "Create a 2.5D scene"
-- "Add depth effect with layered images"
-- "Make an interactive media placeholder with parallax"
+- "Add a parallax effect with these assets (attaching your assets)."
+- "Create a 2.5D scene with these assets (attaching your assets)"
+- "Add depth effect with layered images with these assets (attaching your assets)"
+- "Use these assets (attaching your assets) make an 2.5D graphic with paralax effect."
 
 The agent will guide the scene setup, layer configuration, and animation loop.
 
