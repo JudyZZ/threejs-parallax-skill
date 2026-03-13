@@ -1,6 +1,6 @@
 # threejs-parallax-skill
 
-A [Cursor](https://cursor.com) / [Codex](https://openai.com/index/introducing-codex/) skill that creates **2.5D parallax effects** using Three.js with layered transparent PNG assets on `PlaneGeometry`.
+A [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) / [Cursor](https://cursor.com) / [Codex](https://openai.com/index/introducing-codex/) skill that creates **2.5D parallax effects** using Three.js with layered transparent PNG assets on `PlaneGeometry`.
 
 ## What it does
 
@@ -12,6 +12,15 @@ This skill teaches the AI agent how to build interactive parallax scenes where s
 - **Correct color rendering** — includes critical `SRGBColorSpace` settings to prevent washed-out textures
 
 ## Installation
+
+### Claude Code
+
+Copy the `threejs-parallax` folder into your project's `.claude/skills/` directory:
+
+```bash
+git clone https://github.com/JudyZZ/threejs-parallax-skill.git /tmp/threejs-parallax-skill
+cp -r /tmp/threejs-parallax-skill/threejs-parallax .claude/skills/
+```
 
 ### Cursor
 
