@@ -55,6 +55,8 @@ Once installed, the skill activates automatically when you mention things like:
 - "Add depth effect with layered images with these assets (attaching your assets)"
 - "Use these assets (attaching your assets) make an 2.5D graphic with paralax effect."
 
+To have a better result, please also attach a screenshot of the outcome you want in the prompt, and ask the agent to reference it.
+
 The agent will guide the scene setup, layer configuration, and animation loop.
 
 ## License
